@@ -41,6 +41,26 @@ a {
     text-transform: uppercase;
 }
 
+.item_preTitle {
+    font-size: 1.4rem;
+    color: var(--text-color);
+    font-weight: 300;
+}
+
+.item_title {
+    font-size: 1.6rem;
+    color: white;
+    font-weight: 500;
+    margin: 0.8rem 0;
+}
+
+.item_subtitle {
+    font-size: 1.4rem;
+    color: var(--text-color);
+    font-weight: 400;
+
+}
+
 .container {
     max-width: 10000px;
     width: 90%;
@@ -129,10 +149,10 @@ img {
     }
 }
 
-.skills_list {
-    gap: 4rem;
+.skills_list_description {
+    font-size: 1.3rem;
     margin-top: 1rem;
-    margin-left: 2rem;
+    margin-left: 0.8rem;
     line-height: 2;
 
 }
@@ -143,7 +163,17 @@ img {
 }
 
 .Experience_name {
+
     font-size: 1.3rem;
     font-weight: 400;
+}
 
+.edu_item {
+    margin-top: 2rem;
+}
+
+.lista {
+    font-size: 1.3rem;
+    font-weight: 400;
+    font-size: 3rem;
 }
