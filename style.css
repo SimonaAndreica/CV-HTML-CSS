@@ -186,7 +186,7 @@ img {
 
 .languages_items {
     margin-top: 1rem;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     font-weight: 400;
     line-height: 2
 }
@@ -197,7 +197,7 @@ img {
     align-items: center;
     flex-grow: wrap;
     gap: 2rem;
-    font-size: 1.6rem;
+    font-size: 1.2rem;
 }
 
 .interest_item {
@@ -212,15 +212,14 @@ img {
 
 /*pictograma*/
 .interest_item svg {
-    width: 2rem;
+    width: 1.5rem;
 }
 
 .item_descriere {
     font-size: 1.3rem;
     display: flex;
     flex-direction: column;
-    gap: 2rem;
     margin-top: 1.7rem;
-    line-height: 2
-        /*spatii intre randuri*?
+    line-height: 1.5
+        /*spatii intre randuri*/
 }
