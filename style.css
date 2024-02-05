@@ -175,5 +175,17 @@ img {
 .lista {
     font-size: 1.3rem;
     font-weight: 400;
-    font-size: 3rem;
+    font-size: 1.4rem;
+}
+
+.group-2 {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+
+.languages_items {
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    font-weight: 400;
 }
