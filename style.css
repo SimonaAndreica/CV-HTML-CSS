@@ -189,3 +189,33 @@ img {
     font-size: 1.5rem;
     font-weight: 400;
 }
+
+.interest_items {
+    margin-top: 1.7rem;
+    display: flex;
+    align-items: center;
+    flex-grow: wrap;
+    gap: 2rem;
+    font-size: 1.6rem;
+}
+
+.interest_item {
+    font-size: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    color: var(--text-color);
+}
+
+/*pictograma*/
+.interest_item svg {
+    width: 2rem;
+}
+
+.item_descriere {
+    font-size: 1.3rem;
+    display: flex;
+    flex-direction: column;
+}
