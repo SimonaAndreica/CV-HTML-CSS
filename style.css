@@ -188,6 +188,7 @@ img {
     margin-top: 1rem;
     font-size: 1.5rem;
     font-weight: 400;
+    line-height: 2
 }
 
 .interest_items {
@@ -218,4 +219,8 @@ img {
     font-size: 1.3rem;
     display: flex;
     flex-direction: column;
+    gap: 2rem;
+    margin-top: 1.7rem;
+    line-height: 2
+        /*spatii intre randuri*?
 }
